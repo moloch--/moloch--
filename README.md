@@ -1,6 +1,3 @@
 # Joe
 
-Principal Consultant at Bishop Fox 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moloch--&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Principal Consultant & Red Team Lead at Bishop Fox. I work on mostly security related projects in Go, Python, and TypeScript.
